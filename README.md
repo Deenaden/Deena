@@ -49,6 +49,4 @@
 
 ---
 
-## 📈 GitHub Stats
 
-![Deena’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DeenaUsername&show_icons=true&theme=radical)
